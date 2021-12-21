@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @devsicra
+- 👀 I’m interested in Machine Learning , AI 
+- 🌱 I’m currently learning Python
